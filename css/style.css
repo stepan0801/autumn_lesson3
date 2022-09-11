@@ -1,0 +1,66 @@
+[id]{color: green;}
+span {color: blue;}
+.jose-history{
+	color: brown;
+}
+.first-years-history, .history-saf{
+	color: orangered;
+}
+#middle{
+	color: yellow;
+}
+img + p{
+	color: fuchsia;
+}
+.history-block > div{
+	color: aqua;
+}
+.vh-history p{
+	color: gold;
+}
+h2 ~ ol{color: rgb(192, 21, 21);} 
+.top-text > p{
+	color: lawngreen;
+}
+.about-club h3 + p{
+	color: grey;
+}
+.about-club{
+	color: maroon;
+}
+.about-stadium{
+	color: orangered;
+}
+.theatre{
+	color: hotpink;
+}
+.theatre > span{
+	color: palegoldenrod;
+}
+.about-fans{
+	color: green;
+}
+.fan-one, .fan-twoo{
+	color: firebrick;
+}
+.fan-one + p{
+	color: rgb(43, 30, 30);
+}
+.about-enemy h3 ~p{
+	color: brown;
+}
+.first.second{
+	color: green;
+}
+.about-owners p{
+	color: olive;
+}
+p.usa{
+	color: orange;
+}
+.about-brend{
+	color: blue;
+}
+a {
+	color: red;
+}
